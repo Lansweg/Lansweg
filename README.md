@@ -10,16 +10,8 @@
 ![](https://github.com/Lansweg/TEST-SITE/blob/main/pic/icon/svg/css.svg)
 ![](https://github.com/Lansweg/TEST-SITE/blob/main/pic/icon/svg/js.svg)
 
-## 🛠 Skills
-Javascript, HTML, CSS...
-
-
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
-
+## 🛠 Skills and Tools
+Javascript, HTML, CSS, React, Boostrap, trello, 
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lansweg.github.io)
