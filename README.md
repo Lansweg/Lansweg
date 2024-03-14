@@ -1,6 +1,6 @@
 ![Logo](https://github.com/Lansweg/DWWM/blob/main/SITEWEB/Portefolio/img/lanslogo.svg)
 
-# 👋 Hi, I’m @Lansweg
+# 👋 Hi, I’m CORNUEL Rémy
 - 👀 I am interested in web development.
 - 🚀 I am currently undergoing training in DWWM with AFCI.
 - 🗺️ Located in Dunkirk.
