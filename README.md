@@ -5,7 +5,7 @@
 - 🚀 I am currently undergoing training in DWWM with AFCI.
 - 🗺️ Located in Dunkirk.
 
-# I'm starting to get started in HTML, CSS, JS development
+# I'm starting to get in HTML, CSS, JS development
 ![](https://github.com/Lansweg/TEST-SITE/blob/main/pic/icon/svg/html.svg)
 ![](https://github.com/Lansweg/TEST-SITE/blob/main/pic/icon/svg/css.svg)
 ![](https://github.com/Lansweg/TEST-SITE/blob/main/pic/icon/svg/js.svg)
